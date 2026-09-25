@@ -48,7 +48,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 MCA Student
-- 💻 Learning **HTML, CSS, JavaScript, React.js ,Tailwind CSS, Node.js, Express.js & MongoDB**
+- 💻 Learning **HTML, CSS, JavaScript, React.js, Tailwind CSS, Node.js, Express.js & MongoDB**
 - 🚀 Exploring the **MERN Stack** & **AI**
 - 🧠 Improving my problem-solving and programming skills
 - 🔨 Building projects while learning
