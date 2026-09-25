@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  A passionate Full-Stack Web Developer(MERN) from India
+  A passionate Full-Stack Web Developer (MERN) from India
 </h3>
 
 <p align="center">
